@@ -30,6 +30,9 @@
 .dog-img{
    display: flex;
    justify-content: center;
+   border-radius: 50%;
+   height: 100px;
+   margin-bottom: 7px;
 }
 
 .brand-img{
